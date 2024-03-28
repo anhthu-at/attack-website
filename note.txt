@@ -1,0 +1,7 @@
+Do 2 input qua don gian nen co the bi tan
+cong boi sql de khac phuc loi tren co the them 
+1 so input xac thuc nguoi thuc 
+nhu tick them o check 
+ngoai ra code cun can them session de 
+kiem tr phien dnag nhap
+de kiem tren
